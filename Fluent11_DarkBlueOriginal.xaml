@@ -71,7 +71,7 @@
         <Setter Property="Foreground" Value="#FFFFFFFF" />
         <Setter Property="FontSize" Value="15" />
         <Setter Property="FontStyle" Value="Normal" />
-        <Setter Property="FontWeight" Value="Bold" />
+        <Setter Property="FontWeight" Value="Normal" />
     </Style>
     
     <!-- Date text block -->

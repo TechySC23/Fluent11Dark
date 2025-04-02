@@ -1,5 +1,5 @@
 <!--
-    Name: Fluent11_DarkBlue
+    Name: Fluent11_DarkBlueOriginal
     IsDark: True
     HasBlur: True
 -->
@@ -42,7 +42,7 @@
         x:Key="QueryBoxStyle"
         BasedOn="{StaticResource BaseQueryBoxStyle}"
         TargetType="{x:Type TextBox}">
-        <Setter Property="Foreground" Value="#FFFFFFFF" />
+        <Setter Property="Foreground" Value="#ffffffff" />
         <Setter Property="CaretBrush" Value="#FF009DFF" />
     </Style>
 

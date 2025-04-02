@@ -6,19 +6,19 @@
 
 ### Fluent11 DarkBlue Default Image -->
 
-![Fluent11 DarkBlue Default Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/Fluent11_DarkBlueOriginal.png> )
+![Fluent11 DarkBlue Default Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/screenshots/Fluent11_DarkBlueOriginal.png> )
 
 ### Fluent11 DarkBlue Enhanced Image -->
 
-![Fluent11 DarkBlue Enhanced Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/Fluent11_DarkBlueEnhanced.png> )
+![Fluent11 DarkBlue Enhanced Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/screenshots/Fluent11_DarkBlueEnhanced.png> )
 
 ### Fluent11 Strong Dark Image -->
 
-![Fluent11 Strong Dark Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/Fluent11_StrongDark.png> )
+![Fluent11 Strong Dark Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/screenshots/Fluent11_StrongDark.png> )
 
 ### Fluent11 Old Dark Image -->
 
-![Fluent11 Old Dark Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/Fluent11_LegacyDark.png> )
+![Fluent11 Old Dark Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/screenshots/Fluent11_LegacyDark.png> )
 
 ## ✨ Features
 
@@ -33,28 +33,28 @@
 > [!Important]
 > Use Powershell Core or Powershell 7+.
 
-For the [Fluent11 Dark Original Theme](https://raw.githubusercontent.com/TechySC23/Fluent11Dark/refs/heads/main/screenshots/Fluent11_DarkBlueOriginal.xaml)
+For the [Fluent11 Dark Original Theme](https://raw.githubusercontent.com/TechySC23/Fluent11Dark/refs/heads/main/Fluent11_DarkBlueOriginal.xaml)
 
 ```Shell
-cd ~/AppData/Roaming/FlowLauncher/Themes && curl -o Fluent11_DarkOriginal https://raw.githubusercontent.com/TechySC/Fluent11Dark/main/screenshots/Fluent11_DarkOriginal.xaml
+cd ~/AppData/Roaming/FlowLauncher/Themes && curl -o Fluent11_DarkOriginal https://raw.githubusercontent.com/TechySC/Fluent11Dark/main/Fluent11_DarkOriginal.xaml
 ```
 
-For the [Fluent11 Dark Enhanced Theme](https://raw.githubusercontent.com/TechySC23/Fluent11Dark/refs/heads/main/screenshots/Fluent11_DarkBlueEnhanced.xaml)
+For the [Fluent11 Dark Enhanced Theme](https://raw.githubusercontent.com/TechySC23/Fluent11Dark/refs/heads/main/Fluent11_DarkBlueEnhanced.xaml)
 
 ```Shell
-cd ~/AppData/Roaming/FlowLauncher/Themes && curl -o Fluent11_DarkEnhanced https://raw.githubusercontent.com/TechySC/Fluent11Dark/main/screenshots/Fluent11_DarkEnhanced.xaml
+cd ~/AppData/Roaming/FlowLauncher/Themes && curl -o Fluent11_DarkEnhanced https://raw.githubusercontent.com/TechySC/Fluent11Dark/main/Fluent11_DarkEnhanced.xaml
 ```
 
-For the [Fluent11 Strong Dark Theme](https://raw.githubusercontent.com/TechySC23/Fluent11Dark/refs/heads/main/screenshots/Fluent11_StrongDark.xaml)
+For the [Fluent11 Strong Dark Theme](https://raw.githubusercontent.com/TechySC23/Fluent11Dark/refs/heads/main/Fluent11_StrongDark.xaml)
 
 ```Shell
-cd ~/AppData/Roaming/FlowLauncher/Themes && curl -o Fluent11_StrongDark https://raw.githubusercontent.com/TechySC/Fluent11Dark/main/screenshots/Fluent11_StrongDark.xaml
+cd ~/AppData/Roaming/FlowLauncher/Themes && curl -o Fluent11_StrongDark https://raw.githubusercontent.com/TechySC/Fluent11Dark/main/Fluent11_StrongDark.xaml
 ```
 
-For the [Fluent11 Old Dark Theme](https://raw.githubusercontent.com/TechySC23/Fluent11Dark/refs/heads/main/screenshots/Fluent11_LegacyDark.xaml)
+For the [Fluent11 Old Dark Theme](https://raw.githubusercontent.com/TechySC23/Fluent11Dark/refs/heads/main/Fluent11_LegacyDark.xaml)
 
 ```Shell
-cd ~/AppData/Roaming/FlowLauncher/Themes && curl -o Fluent11_LegacyDark https://raw.githubusercontent.com/TechySC/Fluent11Dark/main/screenshots/Fluent11_LegacyDark.xaml
+cd ~/AppData/Roaming/FlowLauncher/Themes && curl -o Fluent11_LegacyDark https://raw.githubusercontent.com/TechySC/Fluent11Dark/main/Fluent11_LegacyDark.xaml
 ```
 
 > [!Important]

@@ -6,19 +6,19 @@
 
 ### Fluent11 DarkBlue Default Image -->
 
-![Fluent11 DarkBlue Default Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/Fluent11_DarkBlueOriginal.png> width="800")
+![Fluent11 DarkBlue Default Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/Fluent11_DarkBlueOriginal.png> )
 
 ### Fluent11 DarkBlue Enhanced Image -->
 
-![Fluent11 DarkBlue Enhanced Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/Fluent11_DarkBlueEnhanced.png> width="800")
+![Fluent11 DarkBlue Enhanced Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/Fluent11_DarkBlueEnhanced.png> )
 
 ### Fluent11 Strong Dark Image -->
 
-![Fluent11 Strong Dark Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/Fluent11_StrongDark.png> width="800")
+![Fluent11 Strong Dark Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/Fluent11_StrongDark.png> )
 
 ### Fluent11 Old Dark Image -->
 
-![Fluent11 Old Dark Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/Fluent11_LegacyDark.png> width="800")
+![Fluent11 Old Dark Image](<https://raw.githubusercontent.com/TechySC23/Fluent11Dark/main/Fluent11_LegacyDark.png> )
 
 ## ✨ Features
 

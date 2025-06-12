@@ -1,0 +1,70 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:m="http://schemas.modernwpf.com/2019"
+    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+
+    <!-- Enable system blur for this theme -->
+<x:Boolean x:Key="ThemeBlurEnabled">True</x:Boolean>
+
+    <!-- Color Scheme -->
+    <Color x:Key="AccentColor">#FF00AAFF</Color>
+    <Color x:Key="BackgroundColor">#FF333333</Color>
+    <Color x:Key="ForegroundColor">#FFFFFFFF</Color>
+    <Color x:Key="SecondaryAccentColor">#FF66CCCC</Color>
+    <Color x:Key="DisabledColor">#FF999999</Color>
+
+    <!-- Typography -->
+    <FontFamily x:Key="FontFamily">Segoe UI Variable</FontFamily>
+    <FontSize x:Key="FontSize">14</FontSize>
+    <FontWeight x:Key="FontWeight">Normal</FontWeight>
+    <FontWeight x:Key="BoldFontWeight">Bold</FontWeight>
+
+    <!-- Styles -->
+    <Style x:Key="WindowBorderStyle" BasedOn="{StaticResource BaseWindowBorderStyle}" TargetType="{x:Type Border}">
+        <Setter Property="BorderThickness" Value="1" />
+        <Setter Property="BorderBrush" Value="{StaticResource AccentColor}" />
+        <Setter Property="Background" Value="{StaticResource BackgroundColor}" />
+        <Setter Property="CornerRadius" Value="10" />
+        <Setter Property="UseLayoutRounding" Value="True" />
+    </Style>
+
+    <Style x:Key="QueryBoxStyle" BasedOn="{StaticResource BaseQueryBoxStyle}" TargetType="{x:Type TextBox}">
+        <Setter Property="Foreground" Value="{StaticResource ForegroundColor}" />
+        <Setter Property="CaretBrush" Value="{StaticResource AccentColor}" />
+        <Setter Property="Padding" Value="10" />
+        <Setter Property="Margin" Value="5" />
+    </Style>
+
+    <Style x:Key="ResultItemStyle" BasedOn="{StaticResource BaseResultItemStyle}" TargetType="{x:Type ListViewItem}">
+        <Setter Property="Foreground" Value="{StaticResource ForegroundColor}" />
+        <Setter Property="Background" Value="{StaticResource BackgroundColor}" />
+        <Setter Property="Padding" Value="10" />
+        <Setter Property="Margin" Value="5" />
+    </Style>
+
+    <Style x:Key="SeparatorStyle" BasedOn="{StaticResource BaseSeparatorStyle}" TargetType="{x:Type Separator}">
+        <Setter Property="Height" Value="2" />
+        <Setter Property="Background" Value="{StaticResource AccentColor}" />
+    </Style>
+
+    <Style x:Key="ThumbStyle" BasedOn="{StaticResource BaseThumbStyle}" TargetType="{x:Type Thumb}">
+        <Setter Property="Background" Value="{StaticResource SecondaryAccentColor}" />
+        <Setter Property="BorderBrush" Value="{StaticResource AccentColor}" />
+        <Setter Property="BorderThickness" Value="1" />
+    </Style>
+
+    <Style x:Key="DisabledStyle" BasedOn="{StaticResource BaseDisabledStyle}" TargetType="{x:Type Control}">
+        <Setter Property="Foreground" Value="{StaticResource DisabledColor}" />
+        <Setter Property="Opacity" Value="0.5" />
+    </Style>
+
+    <!-- Brushes -->
+    <SolidColorBrush x:Key="AccentColorBrush" Color="{StaticResource AccentColor}" />
+    <SolidColorBrush x:Key="BackgroundColorBrush" Color="{StaticResource BackgroundColor}" />
+    <SolidColorBrush x:Key="ForegroundColorBrush" Color="{StaticResource ForegroundColor}" />
+    <SolidColorBrush x:Key="SecondaryAccentColorBrush" Color="{StaticResource SecondaryAccentColor}" />
+    <SolidColorBrush x:Key="DisabledColorBrush" Color="{StaticResource DisabledColor}" />
+
+</ResourceDictionary>

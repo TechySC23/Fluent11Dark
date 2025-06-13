@@ -2,16 +2,15 @@
 
 I am talking with the Flow Launcher Devs that is the gradients compatible or not. -->
 
+<!-- UPDATE: so yeah it's NOT compatible at all with blur themes, but its also not recommended with non blur ones as well. :( -->
+<!-- Failed project 😭😭 -->
+
 
 <ResourceDictionary
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:m="http://schemas.modernwpf.com/2019"
     xmlns:system="clr-namespace:System;assembly=mscorlib">
-
-
-    <!-- Enable system blur for this theme -->
-<x:Boolean x:Key="ThemeBlurEnabled">True</x:Boolean>
 
     <!-- Color Scheme -->
     <Color x:Key="AccentColor">#FF00AAFF</Color>
